@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\businesswebapi\\controllers\\getallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|solutionrelative:businesswebapi\\controllers\\getallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\controllers\\getallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\controllers\\getallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\businesswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|solutionrelative:businesswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C081D-B44D-4B33-B900-EFEDF01F1313}|SimpleClient\\SimpleClient.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\simpleclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C081D-B44D-4B33-B900-EFEDF01F1313}|SimpleClient\\SimpleClient.csproj|solutionrelative:simpleclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C081D-B44D-4B33-B900-EFEDF01F1313}|SimpleClient\\SimpleClient.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\simpleclient\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C081D-B44D-4B33-B900-EFEDF01F1313}|SimpleClient\\SimpleClient.csproj|solutionrelative:simpleclient\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\models\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\models\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\businesswebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|solutionrelative:businesswebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\businesswebapi\\models\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|solutionrelative:businesswebapi\\models\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C081D-B44D-4B33-B900-EFEDF01F1313}|SimpleClient\\SimpleClient.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\simpleclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD0C081D-B44D-4B33-B900-EFEDF01F1313}|SimpleClient\\SimpleClient.csproj|solutionrelative:simpleclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\models\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\models\\datastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\serverwebapi\\models\\datagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7EF5E-56D2-4C9F-902A-55DCBD1A40DD}|ServerWebAPI\\ServerWebAPI.csproj|solutionrelative:serverwebapi\\models\\datagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|d:\\github\\dc_c#\\adc\\businesswebapi\\businesswebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8C4916F-C378-43AA-8759-1FE53FB0387E}|BusinessWebAPI\\BusinessWebAPI.csproj|solutionrelative:businesswebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllController.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Controllers\\GetAllController.cs",
+              "RelativeDocumentMoniker": "BusinessWebAPI\\Controllers\\GetAllController.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Controllers\\GetAllController.cs",
+              "RelativeToolTip": "BusinessWebAPI\\Controllers\\GetAllController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:47:06.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\SimpleClient\\Student.cs",
+              "RelativeDocumentMoniker": "SimpleClient\\Student.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\SimpleClient\\Student.cs",
+              "RelativeToolTip": "SimpleClient\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:54:26.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Program.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Program.cs",
+              "RelativeToolTip": "ServerWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:49:24.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllController.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Controllers\\GetAllController.cs",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Controllers\\GetAllController.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Controllers\\GetAllController.cs",
+              "RelativeToolTip": "ServerWebAPI\\Controllers\\GetAllController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:20:05.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BusinessWebAPI\\Program.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Program.cs",
+              "RelativeToolTip": "BusinessWebAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:17:59.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\StudentList.cs",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Models\\StudentList.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\StudentList.cs",
+              "RelativeToolTip": "ServerWebAPI\\Models\\StudentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:19:11.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Controllers\\DataController.cs",
+              "RelativeToolTip": "ServerWebAPI\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:43:03.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\SimpleClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SimpleClient\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\SimpleClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SimpleClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwF0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:34:37.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "ServerWebAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:18:57.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BusinessWebAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "BusinessWebAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:49:46.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Models\\StudentList.cs",
+              "RelativeDocumentMoniker": "BusinessWebAPI\\Models\\StudentList.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Models\\StudentList.cs",
+              "RelativeToolTip": "BusinessWebAPI\\Models\\StudentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:51:41.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\SimpleClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SimpleClient\\MainWindow.xaml",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\SimpleClient\\MainWindow.xaml",
+              "RelativeToolTip": "SimpleClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T11:34:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\Database.cs",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Models\\Database.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\Database.cs",
+              "RelativeToolTip": "ServerWebAPI\\Models\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:33:16.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataGen.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\DataGen.cs",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Models\\DataGen.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\DataGen.cs",
+              "RelativeToolTip": "ServerWebAPI\\Models\\DataGen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:33:38.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataStruct.cs",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\DataStruct.cs",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Models\\DataStruct.cs",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Models\\DataStruct.cs",
+              "RelativeToolTip": "ServerWebAPI\\Models\\DataStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:34:04.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServerWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\ServerWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServerWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T12:44:47.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BusinessWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github\\DC_C#\\ADC\\BusinessWebAPI\\BusinessWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BusinessWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T11:59:52.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

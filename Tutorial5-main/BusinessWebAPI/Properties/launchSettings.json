@@ -1,0 +1,15 @@
+﻿{
+ 
+  "profiles": {
+    "BusinessWebAPI": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5159",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }  
+      
+    }
+  }
+}
