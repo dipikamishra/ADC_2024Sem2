@@ -1,0 +1,10 @@
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\bin\Debug\APICoreClasses.dll
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\bin\Debug\APICoreClasses.pdb
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\obj\Debug\APICoreClasses.csproj.AssemblyReference.cache
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\obj\Debug\APICoreClasses.csproj.CoreCompileInputs.cache
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\obj\Debug\APICoreClasses.dll
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\obj\Debug\APICoreClasses.pdb
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\bin\Debug\System.Drawing.Common.dll
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\bin\Debug\System.Drawing.Common.pdb
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\bin\Debug\System.Drawing.Common.xml
+D:\Github\DC_C#\ADC\Tutorial6\APICoreClasses\obj\Debug\APICoreC.5E58075F.Up2Date

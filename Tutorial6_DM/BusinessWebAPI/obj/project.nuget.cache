@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h9PqNqpyeww=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\DC_C#\\ADC\\Tutorial6\\BusinessWebAPI\\BusinessWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dipik\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\dipik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\dipik\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512",
+    "C:\\Users\\dipik\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
